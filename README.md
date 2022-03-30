@@ -1,2 +1,3 @@
-# funny-pong
-Funny Pong, a made in like some months as a game-development learning project, feel free to check the src!
+# DEAD PROJECT
+
+Wanted to make a pong game with the raylib library, that clearly failed, this repo stays just to show improvement
